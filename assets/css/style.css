@@ -64,9 +64,9 @@
 }
 
 .aer-value {
-    font-family: "Courier New", monospace; /* Fuente monoespaciada para alinear números */
+    font-family: "Courier New", monospace;
     font-weight: 700;
-    color: #947e1e; /* Tu color mostaza */
+    color: #444;
     font-size: 0.95rem;
 }
 
